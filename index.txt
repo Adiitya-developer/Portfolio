@@ -1,0 +1,265 @@
+Adita - personal portfolio
+
+# HEDER
+
+Aditya.
+
+En
+
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Portfolio.
+Contact.
+
+
+
+# HERO
+
+alt = A color spreading all over background
+
+We Design & Build Creative Products
+
+Get in touch
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-instagram"></ion-icon>
+instagram
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+0-1 Experience
+Applying as fresher
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+15+
+Completed Projects
+
+alt = Peoples rating icon
+
+Guaranteed
+Good Service
+
+
+
+# ABOUT
+
+alt = My own picture 
+
+About me
+
+Need a Creative Product? I can Help You!
+
+Hi! I'm Aditya Kumar Pandey, and I'm a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I'm always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, currently I don't have a professional work experience but I have very much to showcase you about my enthusiasm and talent.
+
+Hire me
+
+Download cv
+
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+JavaScript
+alt = JavaScript logo
+
+Hibernate
+alt = Hibernate logo
+
+Java
+alt = Java logo
+
+Bootstrap
+alt = Bootstrap logo
+
+C programming
+alt = C logo
+
+React
+alt = React logo
+
+C++
+alt = C++ logo
+
+Python
+alt = Python logo
+
+Spring 
+alt = Spring logo
+
+SQL
+alt = SQL logo
+
+
+Ajax
+alt = Ajax logo
+
+Eclipse
+alt = Eclipse logo
+
+Netbeans
+alt = Netbeans logo
+
+Git
+alt = Git logo
+
+Github
+alt = Github logo
+
+Command Line
+alt = Command Line logo
+
+VS Code
+alt = VS Code logo
+
+Tomcat
+alt = Tomcat logo
+
+Docker
+alt = Docker logo
+
+Maven
+alt = Maven logo
+
+Photoshop
+alt = Photoshop logo
+
+Adobe XD
+alt = Adobe XD logo
+
+
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+alt = A calculator and some background
+Calculator
+October 2024
+
+alt = An earth with the laptop and some notebooks showcase student management system.
+Student Management System
+Dec 2024
+
+alt = A laptop showcasing books for library management system.
+Library Management System
+November 2024
+
+alt = Blue digital watch on a dark liver background.
+Digital Clock
+September 2024
+
+alt = On a dark liver background, Airport luggage car carrying a luggage.
+Airport Management System
+April 2023
+
+alt = One circled image with some meaning.
+User Management System
+November 2024
+
+alt = A flight, bus, train and a globe representing flight reservation system.
+Flight Management System
+April 2023 
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+Kolte Patil Raaga, Hennur Road, Kannuru, Bengaluru, Karnataka 562149
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+(+91) 6901331506
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+aditya.kr.pand@gmail.com 
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g Aditya Pandey
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g aditya@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Aditya.
+
+&copy; 2022 Aditya. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
